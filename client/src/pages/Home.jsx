@@ -3,6 +3,6 @@ import React from 'react'
 
 export default function Home() {
   return (
-    <div>Welome to Home page!</div>
+    <div>Home</div>
   )
 }
